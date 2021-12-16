@@ -6,6 +6,7 @@
   "author": "gech11 <getachewfikadu77@gmail.com>",
   "private": true,
   "scripts": {
+    "dev": "npm run dev",
     "lint": "eslint --ext .js,.vue ./",
     "test": "echo \"No test specified\" && exit 0"
   },

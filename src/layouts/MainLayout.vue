@@ -14,9 +14,14 @@
         <q-toolbar-title>
           Quasar App
         </q-toolbar-title>
-
+           
         <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>
+      <div class="q-px-lg q-pt-xl q-mb-md">
+        <div class="text-h3"></div>
+        <div class="text-subtitle1">Monday the 4th of november</div>
+      </div>
+      <q-img class="" src="https://media.istockphoto.com/photos/watercolor-textured-background-picture-id887755698?k=20&m=887755698&s=612x612&w=0&h=UcvMcQg07D_WfBT88iOWWXMV5WMRXRM8nqJRXcySUNA=">
     </q-header>
 
     <q-drawer
